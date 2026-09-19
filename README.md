@@ -1,10 +1,10 @@
-# PlaceIQ — College Placement Analytics & Eligibility Engine
+# EligiSync — College Placement Analytics & Eligibility Engine
 
 > A configurable, rule-based placement analytics platform that evaluates student profiles against company/job requirements to generate eligibility checks, multi-factor candidate matching scores, and placement insights.
 
 ## 📌 Overview
 
-**PlaceIQ** is a placement analytics engine built for college placement cells to streamline how student eligibility, skill-matching, and placement statistics are managed. Rather than hard-coding logic for a single company, the system is designed as a **configurable eligibility and matching engine** that works across multiple company profiles and criteria sets — making it reusable semester after semester, recruiter after recruiter.
+**EligiSync** is a placement analytics engine built for college placement cells to streamline how student eligibility, skill-matching, and placement statistics are managed. Rather than hard-coding logic for a single company, the system is designed as a **configurable eligibility and matching engine** that works across multiple company profiles and criteria sets — making it reusable semester after semester, recruiter after recruiter.
 
 Built as a Java OOP-based project (CSE-DS, 3rd Semester PBL), it combines core object-oriented design with a data science layer for scoring, ranking, and skill-gap analysis.
 
